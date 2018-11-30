@@ -11,6 +11,11 @@ medium:
   baseURL: "https://www.medium.com/"
   icon: "fa-medium"
   
+kaggle:
+  name: "Kaggle"
+  baseURL: "https://www.kaggle.com/"
+  icon: "fa-kaggle"
+  
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
