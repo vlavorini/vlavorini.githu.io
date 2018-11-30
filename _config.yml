@@ -23,7 +23,9 @@ description: basically a CV in webpage format
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+    - About Me: "aboutme"
+    - CV: "resume"
   Projects:
     - random plots: "rnd_plots"
 
