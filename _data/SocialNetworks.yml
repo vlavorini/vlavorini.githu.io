@@ -16,6 +16,11 @@ kaggle:
   baseURL: "https://www.kaggle.com/"
   icon: "fa-kaggle"
   
+google-scholar:
+  name: "Google Scholar"
+  baseURL: "https://scholar.google.com/"
+  icon: "fa-graduation-cap"
+
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
