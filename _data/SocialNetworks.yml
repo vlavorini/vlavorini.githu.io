@@ -24,7 +24,7 @@ google-scholar:
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
-  icon: "fa-facebook"
+  icon: "fab fa-facebook"
 
 github:
   name: "GitHub"
