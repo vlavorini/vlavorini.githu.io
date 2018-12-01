@@ -69,7 +69,7 @@ stackoverflow:
 stackexchange:
   name: "StackExchange"
   baseURL: "https://stackexchange.com/users/"
-  icon: "fa-stack-exchange"
+  icon: "fab fa-stack-exchange"
 
 snapchat:
   name: "Snapchat"
@@ -99,7 +99,7 @@ telephone:
 rss:
   name: "RSS"
   baseURL: "{{ '/feed.xml' | prepend: site.baseurl }}"
-  icon: "fa-rss"
+  icon: "fa fa-rss"
 
 steam:
   name: "Steam"
