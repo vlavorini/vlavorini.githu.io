@@ -9,17 +9,17 @@
 medium:
   name: "Medium"
   baseURL: "https://www.medium.com/"
-  icon: "fa-medium"
+  icon: "fab fa-medium"
   
 kaggle:
   name: "Kaggle"
   baseURL: "https://www.kaggle.com/"
-  icon: "fa-kaggle"
+  icon: "fab fa-kaggle"
   
 google-scholar:
   name: "Google Scholar"
   baseURL: "https://scholar.google.com/"
-  icon: "fa-graduation-cap"
+  icon: "fa fa-graduation-cap"
 
 facebook:
   name: "Facebook"
@@ -29,12 +29,12 @@ facebook:
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
-  icon: "fa-github"
+  icon: "fab fa-github"
 
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
-  icon: "fa-twitter"
+  icon: "fab fa-twitter"
 
 reddit:
   name: "Reddit"
@@ -49,12 +49,12 @@ google-plus:
 email:
   name: "Email me"
   baseURL: "mailto:"
-  icon: "fa-envelope"
+  icon: "fa fa-envelope"
 
 linkedin:
   name: "LinkedIn"
   baseURL: "https://linkedin.com/in/"
-  icon: "fa-linkedin"
+  icon: "fab fa-linkedin"
 
 xing:
   name: "Xing"
