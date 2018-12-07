@@ -75,23 +75,11 @@ social-network-links:
 #  facebook: vincenzo.lavorini
   github: vlavorini
   twitter: LavoriniVincenz
-#  reddit: yourname
-#  google-plus: +DeanAttali
   linkedin: vincenzo-lavorini-05224ab0/
   stackexchange: "5144390/vincenzo-lavorini?tab=accounts"
   medium: "@vincenzo.lavorini"
   kaggle: "vlavorini"
   google-scholar: "citations?user=yd8gaCwAAAAJ&hl=en&authuser=1"
-#  xing: yourname
-#  stackoverflow: "29134/vincenzo-lavorini"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -110,7 +98,7 @@ share-links-active:
 gtag: "myGtag.js"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-130285626-1"
+google_analytics: "UA-130285626-1"
 
 # Google Tag Manager ID
 #gtm: ""
