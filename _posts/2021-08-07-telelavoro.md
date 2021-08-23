@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hybrid work: the issues of free choice
+title: Hybrid work, the issues of free choice
 image: /img/lego.jpg
 ---
 
