@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hybrid work, the issues of free choice
+title: Change management for rookies
 image: /img/change.jpg
 ---
 
