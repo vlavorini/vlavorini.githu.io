@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KneeFinder: simple tool to find the Knee / Elbow point
+title: KneeFinder: simple tool to find the Knee - Elbow point
 image: /img/sagitta.png
 ---
 
